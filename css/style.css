@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+.container  {	
+	width: 1200px;
+	margin: 100px auto;
+	overflow: hidden;
+}
+
+
+
+
+
+
+
+.section-area {
+	text-align: center;
+	padding: 50px 0px;
+}
+.span-1{
+	color: #6EA1F5;
+}
+
+.span-2{
+	color: #F08077;
+}
+
+.span-3{
+	color: #48B063;
+}
+
+.span-4{
+	color: #F8AE1B;
+}
+
+
+
+.section-area img {
+	max-width: 700px;
+	padding: 80px 0px;
+}
